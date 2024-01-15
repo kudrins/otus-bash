@@ -1,0 +1,132 @@
+От:	admin@skudrin.ru
+Отправлено:	15 января 2024 г. 14:00
+Кому:	admin@skudrin.ru
+Тема:	apache log
+
+Log apache
+Временной диапазон: 15/01/2024:10:00:00 UTC - 15/01/2024:10:59:59 UTC
+
+Список IP адресов с указанием количества запросов:
+     37 89.107.177.18
+     16 79.84.40.134
+     11 208.115.113.88
+      7 83.221.67.237
+      6 92.236.181.94
+      6 66.162.222.50
+      6 178.15.11.82
+      6 109.231.204.82
+      4 66.249.73.135
+      3 46.105.14.53
+      2 80.130.134.87
+      2 209.85.238.199
+      2 200.10.161.5
+      1 89.107.180.34
+      1 79.148.255.215
+      1 74.125.19.84
+      1 65.19.138.33
+      1 50.16.19.13
+      1 209.17.114.78
+      1 208.91.156.11
+      1 128.118.108.67
+
+Список запрашиваемых URL:
+     11 /favicon.ico
+      6 /style2.css
+      6 /reset.css
+      6 /images/web/2009/banner.png
+      6 /images/jordan-80.png
+      4 /blog/tags/puppet?flav=rss20
+      3 /presentations/logstash-puppetconf-2012/images/office-space-printer-beat-down-gif.gif
+      2 /projects/xdotool/xdotool.xhtml
+      2 /?flav=rss20
+      2 /blog/tags/firefox?flav=rss20
+      2 /
+      1 /svnweb/xpathtool/
+      1 /projects/xdotool/
+      1 /presentations/logstash-puppetconf-2012/lib/js/head.min.js
+      1 /presentations/logstash-puppetconf-2012/lib/font/league_gothic-webfont.ttf
+      1 /presentations/logstash-puppetconf-2012/lib/css/zenburn.css
+      1 /presentations/logstash-puppetconf-2012/js/reveal.js
+      1 /presentations/logstash-puppetconf-2012/images/xkcd-perlswing-many.png
+      1 /presentations/logstash-puppetconf-2012/images/xkcd-perl.png
+      1 /presentations/logstash-puppetconf-2012/images/trollface.png
+      1 /presentations/logstash-puppetconf-2012/images/sysadvent.png
+      1 /presentations/logstash-puppetconf-2012/images/stats-negative-min.png
+      1 /presentations/logstash-puppetconf-2012/images/psychoaxe.jpg
+      1 /presentations/logstash-puppetconf-2012/images/pc-load-letter.jpg
+      1 /presentations/logstash-puppetconf-2012/images/nagios-sms6.png
+      1 /presentations/logstash-puppetconf-2012/images/nagios-sms5.png
+      1 /presentations/logstash-puppetconf-2012/images/nagios-sms4.png
+      1 /presentations/logstash-puppetconf-2012/images/nagios-sms3.png
+      1 /presentations/logstash-puppetconf-2012/images/nagios-sms2.png
+      1 /presentations/logstash-puppetconf-2012/images/nagios-sms1.png
+      1 /presentations/logstash-puppetconf-2012/images/logstash.png
+      1 /presentations/logstash-puppetconf-2012/images/logs.jpg
+      1 /presentations/logstash-puppetconf-2012/images/lifecycle.png
+      1 /presentations/logstash-puppetconf-2012/images/kibana-logstash-downloads.png
+      1 /presentations/logstash-puppetconf-2012/images/kibana-chef-hits-6min-each.png
+      1 /presentations/logstash-puppetconf-2012/images/kibana-chef-agent.png
+      1 /presentations/logstash-puppetconf-2012/images/frontend-response-codes.png
+      1 /presentations/logstash-puppetconf-2012/images/computer-keyboard-jacket.jpg
+      1 /presentations/logstash-puppetconf-2012/images/apache-negative-duration.png
+      1 /presentations/logstash-puppetconf-2012/css/reset.css
+      1 /presentations/logstash-puppetconf-2012/css/print.css
+      1 /presentations/logstash-puppetconf-2012/css/preso.css
+      1 /presentations/logstash-puppetconf-2012/css/main.css
+      1 /presentations/logstash-puppetconf-2012/
+      1 /presentations/logstash-blah/images/pc-load-letter.jpg
+      1 /presentations/logstash-blah/images/office-space-printer-beat-down-gif.gif
+      1 /presentations/logstash-1/file/logstash/logstash.png
+      1 /?flav=atom
+      1 /files/xdotool/docs/html/xdo_8h.html
+      1 /files/xdotool/docs/html/tabs.css
+      1 /files/xdotool/docs/html/tab_r.gif
+      1 /files/xdotool/docs/html/tab_l.gif
+      1 /files/xdotool/docs/html/tab_b.gif
+      1 /files/xdotool/docs/html/search/search.png
+      1 /files/xdotool/docs/html/search/search.js
+      1 /files/xdotool/docs/html/search/search.css
+      1 /files/xdotool/docs/html/search/close.png
+      1 /files/xdotool/docs/html/doxygen.png
+      1 /files/xdotool/docs/html/doxygen.css
+      1 /files/wifipencap.sh
+      1 /files/newpsm/?C=N;O=A
+      1 /files/newpsm/?C=D;O=D
+      1 /files/logstash/logstash-1.3.2-monolithic.jar
+      1 /files/logstash/
+      1 /files/keynav/?C=D;O=D
+      1 /files/cgrok/?C=M;O=D
+      1 /files/blogposts/20080611/pcapinject.c
+      1 /files/blogposts/20071009/?C=D;O=D
+      1 /blog/tags/hope%20is%20not%20a%20strategy
+      1 /blog/tags/glob
+      1 /blog/tags/changes
+      1 /blog/geekery/ssl-latency.html
+      1 /blog/geekery/puppet-manage-homedirectory-contents.html
+      1 /blog/geekery/bypassing-captive-portals.html
+      1 /blog/articles/?page=2
+      1 /blog/2006/May/04
+      1 /articles/dynamic-dns-with-dhcp/
+
+Коды HTTP ответа:
+    111 200
+      4 404
+      1 403
+
+Ошибки веб-сервера/приложения:
+89.107.177.18 - - [15/01/2024:10:05:08 +0000] "GET /presentations/logstash-puppetconf-
+2012/images/office-space-printer-beat-down-gif.gif HTTP/1.1" 404 364 
+"http://semicomplete.com/presentations/logstash-puppetconf-2012/" "Mozilla/5.0 (Windows NT 6.1; 
+WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36"
+208.91.156.11 - - [15/01/2024:10:05:45 +0000] "GET /files/logstash/logstash-1.3.2-monolithic.jar HTTP/1.1" 
+404 324 "-" "Chef Client/10.18.2 (ruby-1.9.3-p327; ohai-6.16.0; x86_64-linux; +http://opscode.com)"
+208.115.113.88 - - [15/01/2024:10:05:01 +0000] "GET /svnweb/xpathtool/ HTTP/1.1" 403 305 "-" 
+"Mozilla/5.0 (compatible; Ezooms/1.0; help@moz.com)"
+89.107.177.18 - - [15/01/2024:10:05:42 +0000] "GET /presentations/logstash-puppetconf-
+2012/images/office-space-printer-beat-down-gif.gif HTTP/1.1" 404 364 
+"http://semicomplete.com/presentations/logstash-puppetconf-2012/" "Mozilla/5.0 (Windows NT 6.1; 
+WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36"
+89.107.180.34 - - [15/01/2024:10:05:19 +0000] "GET /presentations/logstash-puppetconf-
+2012/images/office-space-printer-beat-down-gif.gif HTTP/1.1" 404 364 
+"http://semicomplete.com/presentations/logstash-puppetconf-2012/" "Mozilla/5.0 (Windows NT 6.1; 
+WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36"
